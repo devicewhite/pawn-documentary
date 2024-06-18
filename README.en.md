@@ -7,17 +7,17 @@ Welcome to my Personal Course on the Pawn Language! This course is designed to s
 
 The course is divided into the following sections:
 
-1. [Introduction](docs/introduction.md) - History and context of the Pawn language.
-2. [Syntax](docs/syntax.md) - Basic syntax concepts, including variables, control structures, and loops.
-3. [Data Structures](docs/data_structures.md) - Arrays, matrices, and other data structures.
-4. [Functions and Libraries](docs/functions_libraries.md) - Using functions and libraries in Pawn programming.
-5. [Practical Examples](docs/examples.md) - Script and function examples to illustrate practical application of concepts.
+1. [Introduction](mkdocs/en-us/docs/introduction.md) - History and context of the Pawn language.
+2. [Syntax](mkdocs/en-us/docs/syntax.md) - Basic syntax concepts, including variables, control structures, and loops.
+3. [Data Structures](mkdocs/en-us/docs/data_structures.md) - Arrays, matrices, and other data structures.
+4. [Functions and Libraries](mkdocs/en-us/docs/functions_libraries.md) - Using functions and libraries in Pawn programming.
+5. [Practical Examples](mkdocs/en-us/docs/examples.md) - Script and function examples to illustrate practical application of concepts.
 
 ## How to Access the Course
 
 The course is available online and can be accessed through the link below:
 
-[**Access the Pawn Language Course**](https://devicewhite.github.io/pawn-documentary/)
+[**Access the Pawn Language Course**](https://devicewhite.github.io/pawn-documentary/en-us)
 
 ## How to Contribute
 
