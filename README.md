@@ -1,5 +1,5 @@
 # Curso Pessoal sobre a Linguagem Pawn
-[![en](https://img.shields.io/badge/ENGLISH-Click%20to%20Translate-red.svg)](README.en.md)
+[![en](https://img.shields.io/badge/ENGLISH-Click%20to%20Translate-red.svg)](https://devicewhite.github.io/pawn-documentary/README.en)
 
 Bem-vindo ao meu Curso Pessoal sobre a Linguagem Pawn! Este curso foi criado para compartilhar conhecimentos sobre a linguagem de programação Pawn, amplamente utilizada para scripts em ambientes de jogos, especialmente em servidores multiplayer. O curso abrange desde conceitos básicos até exemplos práticos, fornecendo uma base sólida para iniciantes e servindo como um guia de referência para programadores mais experientes.
 
